@@ -1,2 +1,5 @@
 # Yronmo_learning_python
-a noob learning python
+Hello World!
+There's a noob learning python.
+
+
